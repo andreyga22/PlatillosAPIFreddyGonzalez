@@ -1,0 +1,6 @@
+@PlatillosAPIFreddyGonzalez_HostAddress = http://localhost:5133
+
+GET {{PlatillosAPIFreddyGonzalez_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
